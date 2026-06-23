@@ -1,0 +1,39 @@
+{
+  "best_model": "Random Forest",
+  "test_r2": 0.9116403732765012,
+  "test_rmse": 2.1796290739481337,
+  "feature_importance": [
+    {
+      "feature": "displacement",
+      "importance": 0.44476871060050266
+    },
+    {
+      "feature": "weight",
+      "importance": 0.1479603118415352
+    },
+    {
+      "feature": "cylinders",
+      "importance": 0.13016661561472231
+    },
+    {
+      "feature": "horsepower",
+      "importance": 0.12784303599102764
+    },
+    {
+      "feature": "model_year",
+      "importance": 0.1155152528539879
+    },
+    {
+      "feature": "acceleration",
+      "importance": 0.02758650461419986
+    },
+    {
+      "feature": "origin_3",
+      "importance": 0.003294347901316874
+    },
+    {
+      "feature": "origin_2",
+      "importance": 0.002865220582707423
+    }
+  ]
+}
