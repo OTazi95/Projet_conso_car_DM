@@ -3,7 +3,6 @@
 > Prédiction de la consommation de carburant automobile à partir des caractéristiques techniques des véhicules
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 
